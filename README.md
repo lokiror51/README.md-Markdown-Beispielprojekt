@@ -1,6 +1,6 @@
 # Schere, Stein, Papier – Ein Konsolenspiel in Python
 
-Ein einfaches Konsolenspiel, bei dem du gegen den Computer Schere, Stein, Papier spielst. Perfekt zum Üben von Python-Grundlagen!
+Ein Konsolenspiel, bei dem man gegen den Computer Schere, Stein, Papier spielt.
 
 ## Features
 
@@ -29,5 +29,6 @@ Gib dann `schere`, `stein` oder `papier` ein und spiele beliebig viele Runden. B
 Verbesserungsvorschläge, Bug-Reports oder Pull Requests sind willkommen! Bitte erstelle ein Issue oder einen Pull Request, wenn du mitmachen möchtest.
 
 ## Lizenz
+
 
 Dieses Projekt steht unter der MIT-Lizenz. Siehe [LICENSE](LICENSE) für weitere Informationen.
