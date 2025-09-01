@@ -31,4 +31,4 @@ Verbesserungsvorschläge, Bug-Reports oder Pull Requests sind willkommen! Bitte 
 ## Lizenz
 
 
-Dieses Projekt steht unter der MIT-Lizenz. Siehe [LICENSE](LICENSE) für weitere Informationen.
+Dieses Projekt steht unter der MIT-Lizenz.
