@@ -32,3 +32,5 @@ Verbesserungsvorschläge, Bug-Reports oder Pull Requests sind willkommen! Bitte 
 
 
 Dieses Projekt steht unter der MIT-Lizenz.
+
+![Beispielbild](https://picsum.photos/id/237/200/300) <img width="1216" height="105" alt="grafik" src="https://github.com/user-attachments/assets/81faaff1-946a-424c-badc-620730f1245d" />
