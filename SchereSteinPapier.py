@@ -26,4 +26,5 @@ while True:
             print("You've lost")
             player_score -= 1
         
+        print(f"Computer chose: {computer_choice}")
         print(f"\nYour Score: {player_score} \n")
